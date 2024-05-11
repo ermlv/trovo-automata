@@ -2,6 +2,7 @@
 
 #trovo automata
 
+
 xdotool search --name vivaldi mousemove 1280 680 click 1
 
 nn=300
@@ -21,6 +22,3 @@ do
 	xdotool search --name vivaldi mousemove 1280 680 click 1
 	sleep 0.3s
 done
-
-
-
